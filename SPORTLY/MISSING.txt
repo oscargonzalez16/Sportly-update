@@ -1,0 +1,6 @@
+The following files failed to download during site export. Please check them in the designer assets view (images) or dashboard (fonts).
+
+images/Feed.png
+images/Group-42.png
+images/celular-y-fondo-calendario-p-500.png
+images/imagen-saludos2.png
